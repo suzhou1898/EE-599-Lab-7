@@ -1,0 +1,1 @@
+select distinct student_name,stu_id FROM Student_registration where student_name not in (SELECT student_name FROM Student_registration where status='ip') order by stu_id

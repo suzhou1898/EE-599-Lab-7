@@ -1,0 +1,4 @@
+
+Name: Junquan Yu
+E-mail address: junquany@usc.edu
+Summary of Program: According to the Lab7 document PDF, i wrote the program and tested it under the DB software called MAMP and they all performed as expected and produced the correct results.
